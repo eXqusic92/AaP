@@ -1,0 +1,4 @@
+"D:\JetBrainsCLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=C:/Users/pavlo/gcc/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/Users/pavlo/gcc/bin/g++.exe -G "CodeBlocks - NMake Makefiles" C:\Users\pavlo\CLionProjects\rozrakh_ap
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/pavlo/CLionProjects/rozrakh_ap/cmake-build-debug
